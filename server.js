@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-//zJM9RMQ2D7KTfpwR
 
 import app from "./app.js";
 
